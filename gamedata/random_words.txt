@@ -1,0 +1,14 @@
+ACROSS
+1|trojans|USC football
+9|dodgers|LA team
+13|csci|
+16|bar|bar
+18|ebola|hemorrhagic fever the "Hot Zone" is about
+14|go|2 letter programming language
+19|shale|coal
+DOWN
+1|traveler|usc mascott
+2|gold|gold
+3|marshall|USC business school
+4|imagine|John Lennon
+5|bog|Irish swamp
