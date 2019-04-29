@@ -1,7 +1,7 @@
 # Crossword Game
 Networked crossword game written for **CSCI 201**.
 
-*Warning to USC students: do not copy, you have been warned!* 😼
+*USC students: do not copy, you have been warned!* 😼
 
 Operation:
 - compile program: `javac *.java`
