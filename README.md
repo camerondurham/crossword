@@ -29,6 +29,6 @@ DOWN
 5|marshall|Who is USC’s School of Business named after?(marshall)
 ```
 
-Written in `Vim`
+Written with `Vim`
 
 ![Vim logo](https://www.vim.org/images/vim.vialle.love.anim.gif)
